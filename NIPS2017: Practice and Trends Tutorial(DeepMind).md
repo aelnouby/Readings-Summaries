@@ -57,4 +57,4 @@ Learning to learn can be broke down to:
   
 4. Graph Networks
 
-
+While spatial inductive bias for images (CNNs), sequence inductive bias for (RNNs). The inductive bias we have for graph networks is that if a node is renamed, the graph should be still the same. Firsly, we discuss Message passing neural networks (MPNN) 
