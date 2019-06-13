@@ -20,3 +20,5 @@
 ### Machine Learning
 
 + SVM http://cs229.stanford.edu/notes/cs229-notes3.pdf
+
++ Stein Methods https://www.cs.dartmouth.edu/~qliu/PDF/steinslides16.pdf
