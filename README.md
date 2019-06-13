@@ -16,3 +16,7 @@
 ### Information Theory
 
 + MIT Lecture notes http://people.lids.mit.edu/yp/homepage/data/itlectures_v5.pdf
+
+### Machine Learning
+
++ SVM http://cs229.stanford.edu/notes/cs229-notes3.pdf
