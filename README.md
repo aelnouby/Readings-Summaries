@@ -3,6 +3,8 @@
 
 + How Does Batch Normalization Help Optimization?: https://arxiv.org/pdf/1805.11604.pdf
 
++ Generative models for discovering sparse distributedrepresentations (Hinton 1997) https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.1997.0101
+
 ### Math ideas
 
 + Gradient, Divergence, Curland Related Formulae: http://bolvan.ph.utexas.edu/~vadim/Classes/2018f/diffop.pdf
