@@ -19,6 +19,12 @@
 
 + MIT Lecture notes http://people.lids.mit.edu/yp/homepage/data/itlectures_v5.pdf
 
++ The information bottleneck method https://arxiv.org/pdf/physics/0004057.pdf
+
++ Deep  Learning  and  the  Information  Bottleneck  Principle https://arxiv.org/pdf/1503.02406.pdf
+
++ Mutual Information Neural Estimation https://arxiv.org/pdf/1801.04062.pdf
+
 ### Machine Learning
 
 + SVM http://cs229.stanford.edu/notes/cs229-notes3.pdf
