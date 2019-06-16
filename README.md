@@ -26,3 +26,5 @@
 + Stein Methods https://www.cs.dartmouth.edu/~qliu/PDF/steinslides16.pdf
 
 + Gaussian Processes https://distill.pub/2019/visual-exploration-gaussian-processes/
+
++ Neural Processes https://kasparmartens.rbind.io/post/np/ , starter codes https://github.com/deepmind/neural-processes
