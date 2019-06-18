@@ -25,6 +25,10 @@
 
 + Mutual Information Neural Estimation https://arxiv.org/pdf/1801.04062.pdf
 
+### Optimization
+
++ Steepest descent and Natural Gradients https://ipvs.informatik.uni-stuttgart.de/mlr/marc/notes/gradientDescent.pdf
+
 ### Machine Learning
 
 + SVM http://cs229.stanford.edu/notes/cs229-notes3.pdf
