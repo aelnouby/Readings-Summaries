@@ -15,6 +15,8 @@
 
 + PCA https://arxiv.org/pdf/1404.1100.pdf
 
++ CCA https://www.cs.cmu.edu/~tom/10701_sp11/slides/CCA_tutorial.pdf
+
 ### Information Theory
 
 + MIT Lecture notes http://people.lids.mit.edu/yp/homepage/data/itlectures_v5.pdf
