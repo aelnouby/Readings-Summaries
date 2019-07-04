@@ -40,3 +40,8 @@
 + Gaussian Processes https://distill.pub/2019/visual-exploration-gaussian-processes/, http://www.gaussianprocess.org/gpml/chapters/RW2.pdf, Code: https://github.com/cornellius-gp/gpytorch/blob/master/examples/01_Simple_GP_Regression/Simple_GP_Regression.ipynb
 
 + Neural Processes https://kasparmartens.rbind.io/post/np/ , starter codes https://github.com/deepmind/neural-processes
+
+
+### Computer Vision
+
++ Optical Flow: https://blog.nanonets.com/optical-flow/
