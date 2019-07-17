@@ -27,6 +27,8 @@
 
 + Mutual Information Neural Estimation https://arxiv.org/pdf/1801.04062.pdf
 
++ Compression https://www.cs.cmu.edu/~guyb/realworld/compression.pdf
+
 ### Optimization
 
 + Steepest descent and Natural Gradients https://ipvs.informatik.uni-stuttgart.de/mlr/marc/notes/gradientDescent.pdf
