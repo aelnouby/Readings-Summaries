@@ -32,6 +32,7 @@
 ### Optimization
 
 + Steepest descent and Natural Gradients https://ipvs.informatik.uni-stuttgart.de/mlr/marc/notes/gradientDescent.pdf
++ Topologies and neural networks https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/
 
 ### Machine Learning
 
