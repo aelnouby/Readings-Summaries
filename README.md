@@ -29,6 +29,8 @@
 
 + Compression https://www.cs.cmu.edu/~guyb/realworld/compression.pdf
 
++ KL vs Reverse-KL https://wiseodd.github.io/techblog/2016/12/21/forward-reverse-kl/
+
 ### Optimization
 
 + Steepest descent and Natural Gradients https://ipvs.informatik.uni-stuttgart.de/mlr/marc/notes/gradientDescent.pdf
