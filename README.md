@@ -17,6 +17,8 @@
 
 + CCA https://www.cs.cmu.edu/~tom/10701_sp11/slides/CCA_tutorial.pdf
 
++ Statstics Resouces https://www.ics.uci.edu/~smyth/courses/cs274/notes.html
+
 ### Information Theory
 
 + MIT Lecture notes http://people.lids.mit.edu/yp/homepage/data/itlectures_v5.pdf
