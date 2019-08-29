@@ -48,6 +48,7 @@
 
 + Neural Processes https://kasparmartens.rbind.io/post/np/ , starter codes https://github.com/deepmind/neural-processes
 
++ List of Michael Jordan Tutorials https://people.eecs.berkeley.edu/~jordan/tutorials.html
 
 ### Computer Vision
 
