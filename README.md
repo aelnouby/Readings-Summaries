@@ -21,6 +21,8 @@
 
 + RKHS http://mlss.tuebingen.mpg.de/2015/slides/gretton/part_1.pdf
 
++ Optimal Transport and Wasserstein Distance http://www.stat.cmu.edu/~larry/=sml/Opt.pdf
+
 ### Information Theory
 
 + MIT Lecture notes http://people.lids.mit.edu/yp/homepage/data/itlectures_v5.pdf
