@@ -23,6 +23,8 @@
 
 + Optimal Transport and Wasserstein Distance http://www.stat.cmu.edu/~larry/=sml/Opt.pdf
 
++ Integral probablity metrics https://arxiv.org/pdf/0901.2698.pdf, https://sci-hub.tw/10.2307/1428011
+
 ### Information Theory
 
 + MIT Lecture notes http://people.lids.mit.edu/yp/homepage/data/itlectures_v5.pdf
@@ -53,6 +55,8 @@
 + Neural Processes https://kasparmartens.rbind.io/post/np/ , starter codes https://github.com/deepmind/neural-processes
 
 + List of Michael Jordan Tutorials https://people.eecs.berkeley.edu/~jordan/tutorials.html
+
++ MMD http://www.jmlr.org/papers/volume13/gretton12a/gretton12a.pdf
 
 ### Computer Vision
 
