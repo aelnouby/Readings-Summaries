@@ -5,6 +5,8 @@
 
 + Generative models for discovering sparse distributedrepresentations (Hinton 1997) https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.1997.0101
 
++ Bengio et.al. Representation Learning: A Review and New Perspectives https://arxiv.org/pdf/1206.5538.pdf
+
 ### Math ideas
 
 + Gradient, Divergence, Curland Related Formulae: http://bolvan.ph.utexas.edu/~vadim/Classes/2018f/diffop.pdf
