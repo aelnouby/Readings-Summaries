@@ -7,6 +7,12 @@
 
 + Bengio et.al. Representation Learning: A Review and New Perspectives https://arxiv.org/pdf/1206.5538.pdf
 
++ Scaling Learning Algorithms towards AI http://yann.lecun.com/exdb/publis/pdf/bengio-lecun-07.pdf
+
++ Learning Deep Architectures for AI, https://www.iro.umontreal.ca/~lisa/pointeurs/TR1312.pdf
+
++ Representation Learning: A Review and New Perspectives https://arxiv.org/abs/1206.5538
+
 ### Math ideas
 
 + Gradient, Divergence, Curland Related Formulae: http://bolvan.ph.utexas.edu/~vadim/Classes/2018f/diffop.pdf
