@@ -5,11 +5,16 @@
 
 + Generative models for discovering sparse distributedrepresentations (Hinton 1997) https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.1997.0101
 
+
+### Representation Learning 
+
 + Scaling Learning Algorithms towards AI http://yann.lecun.com/exdb/publis/pdf/bengio-lecun-07.pdf
 
 + Learning Deep Architectures for AI, https://www.iro.umontreal.ca/~lisa/pointeurs/TR1312.pdf
 
 + Representation Learning: A Review and New Perspectives https://arxiv.org/abs/1206.5538
+
++ Tutorial on EBMs http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf
 
 ### Math ideas
 
