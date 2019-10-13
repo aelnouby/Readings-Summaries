@@ -5,8 +5,6 @@
 
 + Generative models for discovering sparse distributedrepresentations (Hinton 1997) https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.1997.0101
 
-+ Bengio et.al. Representation Learning: A Review and New Perspectives https://arxiv.org/pdf/1206.5538.pdf
-
 + Scaling Learning Algorithms towards AI http://yann.lecun.com/exdb/publis/pdf/bengio-lecun-07.pdf
 
 + Learning Deep Architectures for AI, https://www.iro.umontreal.ca/~lisa/pointeurs/TR1312.pdf
