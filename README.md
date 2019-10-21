@@ -55,6 +55,8 @@
 + Steepest descent and Natural Gradients https://ipvs.informatik.uni-stuttgart.de/mlr/marc/notes/gradientDescent.pdf
 + Topologies and neural networks https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/
 
++ dentifying and attacking the saddle pointproblem in high-dimensional non-convex optimization https://papers.nips.cc/paper/5486-identifying-and-attacking-the-saddle-point-problem-in-high-dimensional-non-convex-optimization.pdf
+
 ### Machine Learning
 
 + SVM http://cs229.stanford.edu/notes/cs229-notes3.pdf
