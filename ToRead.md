@@ -1,1 +1,0 @@
-- Adaptive Computation Time (ACT) RNN: https://arxiv.org/pdf/1603.08983.pdf
