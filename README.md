@@ -5,6 +5,7 @@
 
 + Generative models for discovering sparse distributedrepresentations (Hinton 1997) https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.1997.0101
 
++ A Theoretical Analysis of Contrastive Unsupervised Representation Learning https://arxiv.org/pdf/1902.09229.pdf
 
 ### Representation Learning 
 
@@ -15,6 +16,8 @@
 + Representation Learning: A Review and New Perspectives https://arxiv.org/abs/1206.5538
 
 + Tutorial on EBMs http://yann.lecun.com/exdb/publis/pdf/lecun-06.pdf
+
++ Self-Supervision blog post https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html
 
 ### Math ideas
 
@@ -70,6 +73,8 @@
 + List of Michael Jordan Tutorials https://people.eecs.berkeley.edu/~jordan/tutorials.html
 
 + MMD http://www.jmlr.org/papers/volume13/gretton12a/gretton12a.pdf
+
++ Neural Tangent Kernel https://rajatvd.github.io/NTK/
 
 ### Computer Vision
 
