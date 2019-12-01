@@ -53,6 +53,8 @@
 
 + KL vs Reverse-KL https://wiseodd.github.io/techblog/2016/12/21/forward-reverse-kl/
 
++ Mutual Information Estimation https://arxiv.org/pdf/cond-mat/0305641.pdf
+
 ### Optimization
 
 + Steepest descent and Natural Gradients https://ipvs.informatik.uni-stuttgart.de/mlr/marc/notes/gradientDescent.pdf
