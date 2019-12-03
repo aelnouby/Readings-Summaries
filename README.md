@@ -82,6 +82,8 @@
 
 + Neural ODEs https://arxiv.org/pdf/1806.07366.pdf, https://blog.acolyer.org/2019/01/09/neural-ordinary-differential-equations/, 
 
++ Information Bottleneck blog post https://lilianweng.github.io/lil-log/2017/09/28/anatomize-deep-learning-with-information-theory.html#references
+
 ### Computer Vision
 
 + Optical Flow: https://blog.nanonets.com/optical-flow/, https://reader.elsevier.com/reader/sd/pii/S0923596518302479?token=8E5DDBE77C9294FB10D4B64081DA1F40947D46C1331F6AEE20C052A2587D5ABC770E3663B8632E7122D2EF1CF4595401
