@@ -21,6 +21,8 @@
 
 + Recent Advances in Autoencoder-Based Representation Learning https://arxiv.org/pdf/1812.05069.pdf
 
++ Autoencoders blog post https://lilianweng.github.io/lil-log/2018/08/12/from-autoencoder-to-beta-vae.html
+
 ### Math ideas
 
 + Gradient, Divergence, Curland Related Formulae: http://bolvan.ph.utexas.edu/~vadim/Classes/2018f/diffop.pdf
