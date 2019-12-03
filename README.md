@@ -19,6 +19,8 @@
 
 + Self-Supervision blog post https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html
 
++ Recent Advances in Autoencoder-Based Representation Learning https://arxiv.org/pdf/1812.05069.pdf
+
 ### Math ideas
 
 + Gradient, Divergence, Curland Related Formulae: http://bolvan.ph.utexas.edu/~vadim/Classes/2018f/diffop.pdf
