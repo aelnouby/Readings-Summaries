@@ -43,6 +43,8 @@
 
 + Integral probablity metrics https://arxiv.org/pdf/0901.2698.pdf, https://sci-hub.tw/10.2307/1428011
 
++ Computational Optimal Transport https://arxiv.org/pdf/1803.00567.pdf
+
 ### Information Theory
 
 + MIT Lecture notes http://people.lids.mit.edu/yp/homepage/data/itlectures_v5.pdf
