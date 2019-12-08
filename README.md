@@ -68,6 +68,8 @@
 
 ### Machine Learning
 
++ Generalization Bounds https://mostafa-samir.github.io/ml-theory-pt2/
+
 + SVM http://cs229.stanford.edu/notes/cs229-notes3.pdf
 
 + Stein Methods https://www.cs.dartmouth.edu/~qliu/PDF/steinslides16.pdf
