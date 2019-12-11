@@ -7,6 +7,8 @@
 
 + A Theoretical Analysis of Contrastive Unsupervised Representation Learning https://arxiv.org/pdf/1902.09229.pdf
 
++ On the Measure of Intelligence https://arxiv.org/pdf/1911.01547.pdf
+
 ### Representation Learning 
 
 + Scaling Learning Algorithms towards AI http://yann.lecun.com/exdb/publis/pdf/bengio-lecun-07.pdf
