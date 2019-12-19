@@ -63,6 +63,8 @@
 
 + Mutual Information Estimation https://arxiv.org/pdf/cond-mat/0305641.pdf
 
++ Visual Information Theory http://colah.github.io/posts/2015-09-Visual-Information/
+
 ### Optimization
 
 + Steepest descent and Natural Gradients https://ipvs.informatik.uni-stuttgart.de/mlr/marc/notes/gradientDescent.pdf
