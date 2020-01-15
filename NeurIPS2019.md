@@ -10,3 +10,4 @@
 + Augmented Neural ODEs https://arxiv.org/pdf/1904.01681.pdf
 + Neural Jump Stochastic Differential Equations https://papers.nips.cc/paper/9177-neural-jump-stochastic-differential-equations.pdf
 + Uniform convergence may be unable to explain generalization in deep learning https://arxiv.org/pdf/1902.04742.pdf
++ On Exact Computation with an Infinitely Wide Neural Net https://arxiv.org/pdf/1904.11955.pdf
