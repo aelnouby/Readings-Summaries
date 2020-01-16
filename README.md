@@ -72,6 +72,8 @@
 
 + dentifying and attacking the saddle pointproblem in high-dimensional non-convex optimization https://papers.nips.cc/paper/5486-identifying-and-attacking-the-saddle-point-problem-in-high-dimensional-non-convex-optimization.pdf
 
++ KFAC https://arxiv.org/pdf/1503.05671.pdf
+
 ### Machine Learning
 
 + Generalization Bounds https://mostafa-samir.github.io/ml-theory-pt2/
