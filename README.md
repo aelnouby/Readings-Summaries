@@ -63,7 +63,7 @@
 
 + Mutual Information Estimation https://arxiv.org/pdf/cond-mat/0305641.pdf
 
-+ Visual Information Theory http://colah.github.io/posts/2015-09-Visual-Information/
++ Visual Information Theory http://colah.github.io/posts/2015-09-Visual-Information/ , https://www.blackhc.net/blog/2019/better-intuition-for-information-theory/
 
 ### Optimization
 
