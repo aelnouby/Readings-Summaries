@@ -112,3 +112,7 @@
 ### Practical
 
 + Mixed precision (Apex) https://developer.download.nvidia.com/video/gputechconf/gtc/2019/presentation/s9998-automatic-mixed-precision-in-pytorch.pdf
+
+## Technical Writing
+
++ https://jvgemert.github.io/links.html
