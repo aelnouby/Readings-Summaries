@@ -116,3 +116,4 @@
 ## Technical Writing
 
 + https://jvgemert.github.io/links.html
++ http://web.engr.oregonstate.edu/~tgd/talks/new-in-ml-2019.pdf
