@@ -100,6 +100,8 @@
 
 + Graph Conv Neural Nets Blog post https://tkipf.github.io/graph-convolutional-networks/
 
++ Geometric Deep Learning https://arxiv.org/pdf/1611.08097.pdf
+
 ### Computer Vision
 
 + Optical Flow: https://blog.nanonets.com/optical-flow/, https://reader.elsevier.com/reader/sd/pii/S0923596518302479?token=8E5DDBE77C9294FB10D4B64081DA1F40947D46C1331F6AEE20C052A2587D5ABC770E3663B8632E7122D2EF1CF4595401
