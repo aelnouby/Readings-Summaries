@@ -122,6 +122,8 @@
 
 + Mixed precision (Apex) https://developer.download.nvidia.com/video/gputechconf/gtc/2019/presentation/s9998-automatic-mixed-precision-in-pytorch.pdf
 
++ Autograd lecture http://videolectures.net/deeplearning2017_johnson_automatic_differentiation/
+
 ## Technical Writing
 
 + https://jvgemert.github.io/links.html
