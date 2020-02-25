@@ -47,6 +47,8 @@
 
 + Computational Optimal Transport https://arxiv.org/pdf/1803.00567.pdf
 
++ Principles of Riemannian Geometry in Neural Networks  https://www.youtube.com/watch?v=IPrNIjA4AWE
+
 ### Information Theory
 
 + MIT Lecture notes http://people.lids.mit.edu/yp/homepage/data/itlectures_v5.pdf
