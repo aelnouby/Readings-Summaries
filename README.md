@@ -29,6 +29,8 @@
 
 + Gradient, Divergence, Curland Related Formulae: http://bolvan.ph.utexas.edu/~vadim/Classes/2018f/diffop.pdf
 
++ Vector/Matrix Derivatives and Integrals http://mason.gmu.edu/~jgentle/csi771/13f/matrixcalculus.pdf
+
 + Taylor expansion theory : http://pathfinder.scar.utoronto.ca/~dyer/csca57/book_P/node26.html
 
 + ICA https://arxiv.org/pdf/1404.2986.pdf
