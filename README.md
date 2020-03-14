@@ -78,6 +78,8 @@
 
 + KFAC https://arxiv.org/pdf/1503.05671.pdf
 
++ Stien Variational Gradient Descent (SVGD) http://www.cs.utexas.edu/~lqiang/PDF/svgd_aabi2016.pdf, https://arxiv.org/abs/1608.04471
+
 ### Machine Learning
 
 + Generalization Bounds https://mostafa-samir.github.io/ml-theory-pt2/
