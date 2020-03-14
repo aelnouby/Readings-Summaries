@@ -106,15 +106,21 @@
 
 + Geometric Deep Learning https://arxiv.org/pdf/1611.08097.pdf
 
+### MetaLearning
+
++ Blog post https://www.borealisai.com/en/blog/tutorial-2-few-shot-learning-and-meta-learning-i/ , https://www.borealisai.com/en/blog/tutorial-3-few-shot-learning-and-meta-learning-ii/
+
 ### Computer Vision
 
 + Optical Flow: https://blog.nanonets.com/optical-flow/, https://reader.elsevier.com/reader/sd/pii/S0923596518302479?token=8E5DDBE77C9294FB10D4B64081DA1F40947D46C1331F6AEE20C052A2587D5ABC770E3663B8632E7122D2EF1CF4595401
 
 
 ### Reinforcement Learning
+
 + Intro to RL https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html#deep-q-network
 + Policy gradient algorithms https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html
 + Spinning-up OpenAI https://spinningup.openai.com/en/latest/user/introduction.html
+
 ### Talks
 
 + NIPS 2016 Workshop on Adversarial Training - Yann LeCun - Energy Based Adversarial Training https://www.youtube.com/watch?v=88nKI-qqWEo&list=PL80I41oVxglK--is17UhoHVosOLFEJzKQ&index=17&t=0s
