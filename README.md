@@ -9,6 +9,8 @@
 
 + On the Measure of Intelligence https://arxiv.org/pdf/1911.01547.pdf
 
++ Second Order Properties of Error Surfaces : Learning Time and Generalization https://papers.nips.cc/paper/314-second-order-properties-of-error-surfaces-learning-time-and-generalization.pdf
+
 ### Representation Learning 
 
 + Scaling Learning Algorithms towards AI http://yann.lecun.com/exdb/publis/pdf/bengio-lecun-07.pdf
