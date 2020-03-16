@@ -110,6 +110,8 @@
 
 + Geometric Deep Learning https://arxiv.org/pdf/1611.08097.pdf
 
++ Variational Inference Tutorial by Shakir Mohamed https://www.shakirm.com/papers/VITutorial.pdf
+
 ### MetaLearning
 
 + Blog post https://www.borealisai.com/en/blog/tutorial-2-few-shot-learning-and-meta-learning-i/ , https://www.borealisai.com/en/blog/tutorial-3-few-shot-learning-and-meta-learning-ii/
