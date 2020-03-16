@@ -112,6 +112,8 @@
 
 + Variational Inference Tutorial by Shakir Mohamed https://www.shakirm.com/papers/VITutorial.pdf
 
++ VI NIPS talk https://www.youtube.com/watch?v=ogdv_6dbvVQ
+
 ### MetaLearning
 
 + Blog post https://www.borealisai.com/en/blog/tutorial-2-few-shot-learning-and-meta-learning-i/ , https://www.borealisai.com/en/blog/tutorial-3-few-shot-learning-and-meta-learning-ii/
