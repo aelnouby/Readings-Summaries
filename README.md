@@ -137,6 +137,8 @@
 
 + AAAI Turing award winners talks https://www.youtube.com/watch?v=UX8OubxsY8w
 
++ Hinton's "What is wrong with conv nets ?" talk https://www.youtube.com/watch?v=rTawFwUvnLE&feature=emb_title
+
 
 ### Practical
 
