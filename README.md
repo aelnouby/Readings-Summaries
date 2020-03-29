@@ -45,7 +45,7 @@
 
 + RKHS http://mlss.tuebingen.mpg.de/2015/slides/gretton/part_1.pdf
 
-+ Optimal Transport and Wasserstein Distance http://www.stat.cmu.edu/~larry/=sml/Opt.pdf
++ Optimal Transport and Wasserstein Distance http://www.stat.cmu.edu/~larry/=sml/Opt.pdf, Mini Course https://lchizat.github.io/ot2020orsay.html
 
 + Integral probablity metrics https://arxiv.org/pdf/0901.2698.pdf, https://sci-hub.tw/10.2307/1428011
 
