@@ -116,6 +116,8 @@
 
 + VI NIPS talk https://www.youtube.com/watch?v=ogdv_6dbvVQ
 
++ Gradient Based MCMC http://www.cs.toronto.edu/~jessebett/CSC412/content/week8/grad_mcmc.pdf
+
 ### MetaLearning
 
 + Blog post https://www.borealisai.com/en/blog/tutorial-2-few-shot-learning-and-meta-learning-i/ , https://www.borealisai.com/en/blog/tutorial-3-few-shot-learning-and-meta-learning-ii/
