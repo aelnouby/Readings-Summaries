@@ -148,6 +148,8 @@
 
 + Autograd lecture http://videolectures.net/deeplearning2017_johnson_automatic_differentiation/
 
++ Transformer Family https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html
+
 ## Technical Writing
 
 + https://jvgemert.github.io/links.html
