@@ -150,6 +150,8 @@
 
 + Transformer Family https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html
 
++ CUDA resources (University Courses links) https://developer.nvidia.com/educators/existing-courses
+
 ## Technical Writing
 
 + https://jvgemert.github.io/links.html
