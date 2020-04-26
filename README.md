@@ -152,6 +152,8 @@
 
 + CUDA resources (University Courses links) https://developer.nvidia.com/educators/existing-courses
 
++ Parallel Computing Arch and Programmig (CMU Course) https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=66c4b4cc-5dbd-425c-87ed-5d0d217c20b3
+
 ## Technical Writing
 
 + https://jvgemert.github.io/links.html
