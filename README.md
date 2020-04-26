@@ -151,6 +151,7 @@
 + Transformer Family https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html
 
 + CUDA resources (University Courses links) https://developer.nvidia.com/educators/existing-courses
+, CUDA Crash Course https://www.youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV_sU
 
 + Parallel Computing Arch and Programmig (CMU Course) https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=66c4b4cc-5dbd-425c-87ed-5d0d217c20b3
 
