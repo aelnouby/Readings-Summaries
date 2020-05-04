@@ -118,6 +118,8 @@
 
 + Gradient Based MCMC http://www.cs.toronto.edu/~jessebett/CSC412/content/week8/grad_mcmc.pdf
 
++ Yee Whye Teh Course (SC4/SM8 Advanced Topics in Statistical Machine Learning) https://github.com/ywteh/advml2020
+
 ### MetaLearning
 
 + Blog post https://www.borealisai.com/en/blog/tutorial-2-few-shot-learning-and-meta-learning-i/ , https://www.borealisai.com/en/blog/tutorial-3-few-shot-learning-and-meta-learning-ii/
