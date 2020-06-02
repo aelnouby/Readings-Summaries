@@ -122,6 +122,8 @@
 
 + MRFs/CRFs https://ermongroup.github.io/cs228-notes/representation/undirected/
 
++ PGM course notes https://ermongroup.github.io/cs228-notes/
+
 ### MetaLearning
 
 + Blog post https://www.borealisai.com/en/blog/tutorial-2-few-shot-learning-and-meta-learning-i/ , https://www.borealisai.com/en/blog/tutorial-3-few-shot-learning-and-meta-learning-ii/
