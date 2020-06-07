@@ -53,6 +53,8 @@
 
 + Principles of Riemannian Geometry in Neural Networks  https://www.youtube.com/watch?v=IPrNIjA4AWE
 
++ Linear algebra (2020 vision) https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/index.htm
+
 ### Information Theory
 
 + MIT Lecture notes http://people.lids.mit.edu/yp/homepage/data/itlectures_v5.pdf
