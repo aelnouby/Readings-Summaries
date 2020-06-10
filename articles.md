@@ -1,1 +1,2 @@
 - 10 Tips for Research and a PhD : https://ruder.io/10-tips-for-research-and-a-phd/
+- 2019 research summary overview https://ruder.io/research-highlights-2019/index.html
