@@ -170,3 +170,5 @@
 + https://jvgemert.github.io/links.html
 + http://web.engr.oregonstate.edu/~tgd/talks/new-in-ml-2019.pdf
 + https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter
+
++ Reading a paper https://towardsdatascience.com/guide-to-reading-academic-research-papers-c69c21619de6
