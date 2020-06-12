@@ -172,3 +172,7 @@
 + https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter
 
 + Reading a paper https://towardsdatascience.com/guide-to-reading-academic-research-papers-c69c21619de6
+
+## General 
+
++ Student's Guide https://github.com/lintool/guide
